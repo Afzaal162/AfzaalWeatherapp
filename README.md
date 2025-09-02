@@ -77,7 +77,7 @@ Open a Pull Request
 This project is licensed under the MIT License – feel free to use and modify.
 
 👨‍💻 Author
-Your Name
+Afzaal Hassan
 
 GitHub: @your-username
 
